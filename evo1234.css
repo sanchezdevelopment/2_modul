@@ -1,0 +1,27 @@
+h1,h2{
+text-align: center;
+width: 1700px;
+font-family: Century Gothic;}
+h2{
+font-style: italic;}
+div.cancel{
+	text-align: center;
+	font-family: Century Gothic;
+	border-top: 1px solid grey;
+	border-bottom: 1px solid grey;
+	border-left: 1px solid grey;
+	border-right: 1px solid grey;
+	width: 200px;
+	display: inline;
+	float: left;
+	list-style-type: none;}
+div.cancel a{
+	text-decoration: none;
+	line-height: 20px;
+	color: black;
+	height: 20px;
+	display: block;
+	background: white;}
+div.cancel a:hover{
+	background: #AC0102;
+	color: white;}
